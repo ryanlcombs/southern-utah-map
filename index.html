@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Southern Utah Map</title>
+  
+  <!-- Link to Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Year Slider -->
+  <div class="slider-container">
+    <label for="yearSlider">Year: <input type="number" id="yearInput" value="1862" min="1850" max="1950" size="4"></label>
+    <div class="slider-labels">
+      <span>1850</span>
+      <input type="range" id="yearSlider" min="1850" max="1950" value="1862" step="1">
+      <span>1950</span>
+    </div>
+  </div>
+  <div class="container">
+    <div id="sidebar">
+      <h2> </h2>
+      <input type="text" id="searchBox" placeholder="Search names...">
+      <ul id="featureList"></ul>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <!-- Link to Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/esri-leaflet"></script>
+  
+  <!-- Custom JavaScript -->
+  <script src="script.js"></script>
+</body>
+</html>

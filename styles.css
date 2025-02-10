@@ -1,0 +1,67 @@
+#map {
+    height: 90vh; /* Full viewport height */
+    width: 100%; /* Full width */
+}
+
+body {
+    font-family: Arial, sans-serif; /* Match this to the font used on the rest of your page */
+}
+
+.container {
+    display: flex;
+  }
+  
+  #sidebar {
+    width: 300px;
+    height: 100vh;
+    overflow-y: auto;
+    background: #f8f8f8;
+    padding: 10px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  }
+  
+  #map {
+    flex: 1;
+    height: 100vh;
+  }
+  
+  #featureList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  #featureList li {
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  #featureList li:hover {
+    background: #e0e0e0;
+  }
+
+.slider-container {
+    margin: 20px;
+    text-align: center; /* Center the slider and labels */
+}
+
+.slider-labels {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center the start and end labels */
+}
+
+.slider-labels span {
+    font-size: 14px;
+    margin: 0 10px;
+}
+
+#yearSlider {
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 10px;
+}
+
+#yearLabel {
+    display: block;
+    margin-bottom: 5px; /* Space between the label and the slider */
+    font-size: 16px; /* Adjust the font size as needed */
+}
