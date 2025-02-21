@@ -339,24 +339,24 @@
           "coordinates": [
             [
               [
-                -113.58130920615201,
-                37.103965657150795
+                -113.58180122482403,
+                37.1031691490099
               ],
               [
-                -113.58179124745017,
-                37.103965657150795
+                -113.5813043911546,
+                37.1031691490099
               ],
               [
-                -113.58179124745017,
-                37.103152819312854
+                -113.5813043911546,
+                37.10396522927758
               ],
               [
-                -113.58130920615201,
-                37.103152819312854
+                -113.58180122482403,
+                37.10396522927758
               ],
               [
-                -113.58130920615201,
-                37.103965657150795
+                -113.58180122482403,
+                37.1031691490099
               ]
             ]
           ]
@@ -762,7 +762,566 @@
           ]
         }
       },
-
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "William Vance",
+          "sort": "Vance, William",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/william-perkins-vance-1822",
+          "PID": "https://ancestors.familysearch.org/en/KWCJ-KTT",
+          "plat": "A",
+          "block": 4,
+          "startDate": 1862,
+          "endDate": 1880
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58558448005645,
+                37.10474861707496
+              ],
+              [
+                -113.58613359039394,
+                37.10474861707496
+              ],
+              [
+                -113.58613359039394,
+                37.103954320621284
+              ],
+              [
+                -113.58558448005645,
+                37.103954320621284
+              ],
+              [
+                -113.58558448005645,
+                37.10474861707496
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "James Brinkerhoff",
+          "sort": "Brinkerhoff, James",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/james-brinkerhoff-1816",
+          "PID": "https://ancestors.familysearch.org/en/KWJ8-XGR",
+          "plat": "A",
+          "block": 4,
+          "startDate": 1862,
+          "endDate": 1870
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58614049601155,
+                37.10474864564864
+              ],
+              [
+                -113.58660202977077,
+                37.10474864564864
+              ],
+              [
+                -113.58660202977077,
+                37.10395155700131
+              ],
+              [
+                -113.58614049601155,
+                37.10395155700131
+              ],
+              [
+                -113.58614049601155,
+                37.10474864564864
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "John Mathis",
+          "sort": "Mathis, John",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/john-mathis-1832",
+          "PID": "https://ancestors.familysearch.org/en/KWNR-VYL",
+          "plat": "A",
+          "block": 6,
+          "startDate": 1862,
+          "endDate": 1899
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58982951317793,
+                37.104767182181945
+              ],
+              [
+                -113.59030100809741,
+                37.104767182181945
+              ],
+              [
+                -113.59030100809741,
+                37.10401246409111
+              ],
+              [
+                -113.58982951317793,
+                37.10401246409111
+              ],
+              [
+                -113.58982951317793,
+                37.104767182181945
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Henry Gubler",
+          "sort": "Gubler, Henry",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/henry-gubler-1870",
+          "PID": "https://ancestors.familysearch.org/en/K2QF-8YL",
+          "plat": "A",
+          "block": 6,
+          "startDate": 1862,
+          "endDate": 1900
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.59030432848405,
+                37.10476983030223
+              ],
+              [
+                -113.59077582340353,
+                37.10476983030223
+              ],
+              [
+                -113.59077582340353,
+                37.10401246409111
+              ],
+              [
+                -113.59030432848405,
+                37.10401246409111
+              ],
+              [
+                -113.59030432848405,
+                37.10476983030223
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Jacob Shier",
+          "sort": "Shier, Jacob",
+          "bioDB": "",
+          "PID": "",
+          "plat": "A",
+          "block": 6,
+          "startDate": 1862,
+          "endDate": 1870
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.5907791437905,
+                37.10477512654316
+              ],
+              [
+                -113.59129048335096,
+                37.10477512654316
+              ],
+              [
+                -113.59129048335096,
+                37.10401246409111
+              ],
+              [
+                -113.5907791437905,
+                37.10401246409111
+              ],
+              [
+                -113.5907791437905,
+                37.10477512654316
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "James Blair",
+          "sort": "Blair, James",
+          "bioDB": "",
+          "PID": "",
+          "plat": "A",
+          "block": 6,
+          "startDate": 1862,
+          "endDate": 1870
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.59129712412422,
+                37.10477777466319
+              ],
+              [
+                -113.5917686190437,
+                37.10477777466319
+              ],
+              [
+                -113.5917686190437,
+                37.10400981594434
+              ],
+              [
+                -113.59129712412422,
+                37.10400981594434
+              ],
+              [
+                -113.59129712412422,
+                37.10477777466319
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Casper Bryner",
+          "sort": "Bryner, Casper",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/casper-bryner-1834",
+          "PID": "https://ancestors.familysearch.org/en/KWJJ-ZKP",
+          "plat": "A",
+          "block": 6,
+          "startDate": 1862,
+          "endDate": 1870
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58982951317793,
+                37.10401776038499
+              ],
+              [
+                -113.59030100809741,
+                37.10401776038499
+              ],
+              [
+                -113.59030100809741,
+                37.10321536769693
+              ],
+              [
+                -113.58982951317793,
+                37.10321536769693
+              ],
+              [
+                -113.58982951317793,
+                37.10401776038499
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Ulrich Bryner",
+          "sort": "Bryner, Ulrich",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/hans-ulrich-bryner-jr-1827",
+          "PID": "https://ancestors.familysearch.org/en/K2W3-49H",
+          "plat": "A",
+          "block": 6,
+          "startDate": 1862,
+          "endDate": 1905
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.59030764887102,
+                37.10401511223779
+              ],
+              [
+                -113.5907725030169,
+                37.10401511223779
+              ],
+              [
+                -113.5907725030169,
+                37.10321801587207
+              ],
+              [
+                -113.59030764887102,
+                37.10321801587207
+              ],
+              [
+                -113.59030764887102,
+                37.10401511223779
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "James McFate",
+          "sort": "McFate, James",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/james-mcfate-1836",
+          "PID": "https://ancestors.familysearch.org/en/KWJZ-K59",
+          "plat": "A",
+          "block": 8,
+          "startDate": 1862,
+          "endDate": 1880
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.59079893443588,
+                37.10491800316517
+              ],
+              [
+                -113.59079893443588,
+                37.105332703518926
+              ],
+              [
+                -113.59176882789785,
+                37.105332703518926
+              ],
+              [
+                -113.59176882789785,
+                37.10491800316517
+              ],
+              [
+                -113.59079893443588,
+                37.10491800316517
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "William Butler",
+          "sort": "Butler, William",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/william-franklin-butler-1824",
+          "PID": "https://ancestors.familysearch.org/en/KWJ4-GC6",
+          "plat": "A",
+          "block": 8,
+          "startDate": 1862,
+          "endDate": 1880
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.59079155882007,
+                37.10491800316517
+              ],
+              [
+                -113.58983641658929,
+                37.10491800316517
+              ],
+              [
+                -113.58983641658929,
+                37.10533564464862
+              ],
+              [
+                -113.59079155882007,
+                37.10533564464862
+              ],
+              [
+                -113.59079155882007,
+                37.10491800316517
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Solon Foster",
+          "sort": "Foster, Solon",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/solon-foster-1811",
+          "PID": "https://ancestors.familysearch.org/en/KWJY-PJ7",
+          "plat": "A",
+          "block": 9,
+          "startDate": 1862,
+          "endDate": 1896
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58964714413628,
+                37.10492631405451
+              ],
+              [
+                -113.588588283032,
+                37.10492631405451
+              ],
+              [
+                -113.588588283032,
+                37.105669651274866
+              ],
+              [
+                -113.58964714413628,
+                37.105669651274866
+              ],
+              [
+                -113.58964714413628,
+                37.10492631405451
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "William Trost",
+          "sort": "Trost, William",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/william-frost-1801",
+          "PID": "https://ancestors.familysearch.org/en/L2PS-GVT",
+          "plat": "A",
+          "block": 9,
+          "startDate": 1862,
+          "endDate": 1887
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58966616559317,
+                37.10567470796545
+              ],
+              [
+                -113.58912722431259,
+                37.10567470796545
+              ],
+              [
+                -113.58912722431259,
+                37.106478717508836
+              ],
+              [
+                -113.58966616559317,
+                37.106478717508836
+              ],
+              [
+                -113.58966616559317,
+                37.10567470796545
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Jacob Beacham",
+          "sort": "Beacham, Jacob",
+          "bioDB": "",
+          "PID": "https://ancestors.familysearch.org/en/KWJZ-P82",
+          "plat": "A",
+          "block": 9,
+          "startDate": 1862,
+          "endDate": 1893
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58912722431259,
+                37.10567470796545
+              ],
+              [
+                -113.58860096400349,
+                37.10567470796545
+              ],
+              [
+                -113.58860096400349,
+                37.106478717508836
+              ],
+              [
+                -113.58912722431259,
+                37.106478717508836
+              ],
+              [
+                -113.58912722431259,
+                37.10567470796545
+              ]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { 
+          "name": "Amos Fordham",
+          "sort": "Fordham, Amos",
+          "bioDB": "https://history.churchofjesuschrist.org/chd/individual/amos-pierre-fordham-1841",
+          "PID": "https://ancestors.familysearch.org/en/KWJF-CF6",
+          "plat": "A",
+          "block": 9,
+          "startDate": 1862,
+          "endDate": 1893
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -113.58770695552634,
+                37.10567470796545
+              ],
+              [
+                -113.58770695552634,
+                37.1064837741454
+              ],
+              [
+                -113.5881634704932,
+                37.1064837741454
+              ],
+              [
+                -113.5881634704932,
+                37.10567470796545
+              ],
+              [
+                -113.58770695552634,
+                37.10567470796545
+              ]
+            ]
+          ]
+        }
+      },
       {
         "type": "Feature",
         "properties": { 
