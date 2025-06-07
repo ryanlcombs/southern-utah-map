@@ -4459,24 +4459,146 @@
         "coordinates": [
           [
             [
-              -113.58019371910915,
-              37.107381375377386
+              -113.58019583513901,
+              37.108323787702375
             ],
             [
-              -113.58019371910915,
-              37.10812143771764
+              -113.57969609596256,
+              37.108323787702375
             ],
             [
-              -113.58114195573778,
-              37.10812143771764
+              -113.57969609596256,
+              37.10916418289651
             ],
             [
-              -113.58114195573778,
-              37.107381375377386
+              -113.58019583513901,
+              37.10916418289651
             ],
             [
-              -113.58019371910915,
-              37.107381375377386
+              -113.58019583513901,
+              37.108323787702375
+            ]
+          ]
+        ]
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": { 
+        "name": "Thomas Cotton",
+        "sort": "Cotton, Thomas",
+        "bioDB": "https://history.churchofjesuschrist.org/chd/individual/thomas-cottam-1820",
+        "PID": "https://ancestors.familysearch.org/en/K2Q6-BDC",
+        "plat": "A",
+        "block": 27,
+        "startDate": 1862,
+        "endDate": 1870
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.57969609657354,
+              37.1091670705037
+            ],
+            [
+              -113.57969609657354,
+              37.10832089939751
+            ],
+            [
+              -113.57920722129235,
+              37.10832089939751
+            ],
+            [
+              -113.57920722129235,
+              37.1091670705037
+            ],
+            [
+              -113.57969609657354,
+              37.1091670705037
+            ]
+          ]
+        ]
+      }
+    },
+
+{
+      "type": "Feature",
+      "properties": { 
+        "name": "Artemisia Beman Snow",
+        "sort": "Snow, Artemisia Beman",
+        "bioDB": "https://history.churchofjesuschrist.org/chd/individual/artemisia-beman-1819",
+        "PID": "https://ancestors.familysearch.org/en/KWJ4-KJV",
+        "plat": "A",
+        "block": 28,
+        "startDate": 1862,
+        "endDate": 1882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.57896459497549,
+              37.10831801027136
+            ],
+            [
+              -113.57794338883238,
+              37.10831801027136
+            ],
+            [
+              -113.57794338883238,
+              37.10871654939079
+            ],
+            [
+              -113.57896459497549,
+              37.10871654939079
+            ],
+            [
+              -113.57896459497549,
+              37.10831801027136
+            ]
+          ]
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": { 
+        "name": "John Larson",
+        "sort": "Larson, John",
+        "bioDB": "https://history.churchofjesuschrist.org/chd/individual/john-larson-1831",
+        "PID": "https://ancestors.familysearch.org/en/KWJ7-YDF",
+        "plat": "A",
+        "block": 28,
+        "startDate": 1862,
+        "endDate": 1880
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -113.5789682162739,
+              37.10872232530471
+            ],
+            [
+              -113.57794338883238,
+              37.10872232530471
+            ],
+            [
+              -113.57794338883238,
+              37.10915551758838
+            ],
+            [
+              -113.5789682162739,
+              37.10915551758838
+            ],
+            [
+              -113.5789682162739,
+              37.10872232530471
             ]
           ]
         ]
